@@ -12,6 +12,6 @@ Outside of work, I am either a photographer or a poet.
 #### Analytical Software Tools: Excel and R Studio
 
 ## Education 
-- Masters of Analytics | RMIT University, Melbourne | 2022-2023
-- Bachelors of Engineering (Mechanical Engineering) | Thapar University, Patiala, India | 2015-2019
+1. Masters of Analytics | RMIT University, Melbourne | 2022-2023
+2. Bachelors of Engineering (Mechanical Engineering) | Thapar University, Patiala, India | 2015-2019
 
