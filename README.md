@@ -1,6 +1,6 @@
-# Data Analyst
+# Data Analytics Graduate 
 
-## A Bit About Me:
+##👨‍💻 A Bit About Me:
 My passion for the field led me to pursue a Masters in Analytics which has helped me immensely in understanding the theoretical significance and familiarity with BI and Programming tools. 
 
 I take immense pride in the quality of work I put out, and with a goal of growing in the field. 
@@ -11,11 +11,11 @@ Outside of work, I am either a photographer or a poet.
 #### Visualisation Tools: Tableau, Power BI, and R Dashboards 
 #### Analytical Software Tools: Excel and R Studio
 
-## Education 
+##👨‍🎓 Education 
 1. Masters of Analytics From RMIT University, Melbourne (2022-2023)
 2. Bachelors of Engineering (Mechanical Engineering) From Thapar University, Patiala, India (2015-2019)
 
-## Work Experience
+##📈 Work Experience
 **Estimating Support Officer @ Harvey Norman Commercial Projects Division, Port Melbourne (October 2022 - Present)**
 <br>
 In my current role, I specialize in data analysis of product pricing, maintain cost databases, and collaborate with cross-functional teams to ensure accurate cost estimations. Additionally, I identify cost-saving opportunities and provide recommendations to enhance efficiency and cost-effectiveness through collaborative efforts.
