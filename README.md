@@ -2,5 +2,3 @@
 
 ### Education 
 Analytics, Masters
-
-### Work Experience
