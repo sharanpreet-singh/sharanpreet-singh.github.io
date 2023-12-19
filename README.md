@@ -3,7 +3,7 @@
 ## 👨‍💻 A Bit About Me:
 My passion for the field led me to pursue a Masters in Analytics which has helped me immensely in understanding the theoretical significance and familiarity with BI and Programming tools. 
 
-I take immense pride in the quality of work I put out, and with a goal of growing in the field.  
+I take immense pride in the quality of work I put out with the goal of helping the organisation I work for grow and grow with it.  
 
 Outside of work, I am either a photographer or a poet.
 
