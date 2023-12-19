@@ -1,1 +1,6 @@
-# sharanpreet-singh.github.io
+# Data Analyst
+
+### Education 
+Analytics, Masters
+
+### Work Experience
