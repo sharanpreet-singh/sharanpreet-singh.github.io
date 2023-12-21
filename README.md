@@ -22,7 +22,7 @@ In my current role, I specialize in data analysis of product pricing, maintain c
 
 **Data and AI Intern @ News Corp, Melbourne (July 2023 - August 2023)**
 <br>
-I contributed to the development of a prototype product utilizing Natural Language Processing Algorithms. I also had the chance to learn and collaborate with journalists, assisting in enhancing storytelling through data analysis.
+Developed a prototype product that utilized Natural Language Processing Algorithms to compare news headlines and find the ones that were missing and further was able to categorize them into relevant news categories for further research. I also had the chance to learn and collaborate with journalists, assisting in enhancing storytelling through data analysis.
 
 **Customer Relationship Management Administrator @ Planned Resources, Docklands (August 2022 - January 2023)**
 <br>
